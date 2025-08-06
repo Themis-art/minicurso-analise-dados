@@ -1,0 +1,6 @@
+#!/bin/bash
+# Instalar dependências necessárias
+pip install notebook plotly pandas
+
+# Executar o notebook para salvar as saídas
+jupyter nbconvert --to notebook --execute --inplace "Arquivo_Inicial_Minicurso_Analise_de_Dados_Python.ipynb"
