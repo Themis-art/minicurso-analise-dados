@@ -1,4 +1,4 @@
-# Minicurso Análise de Dados - hashtag Treinamentos
+# Minicurso Análise de Dados - Hashtag Treinamentos
 
 Este repositório contém o notebook do minicurso de Análise de Dados com Python, incluindo a resolução de um desafio real de **Churn** de clientes de cartão de crédito.
 
